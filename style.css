@@ -1,0 +1,11 @@
+.twoTimeButton{
+    color: gray;
+    font-size: 1rem;
+    font-weight: bold;
+    background: transparent;
+    border-color: none;
+}
+
+.bt_verde{
+    color: #009688;
+}
